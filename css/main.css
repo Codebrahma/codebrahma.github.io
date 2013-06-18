@@ -225,7 +225,10 @@ footer {
 
 
 /* PAGES CSS */
-
+#page {
+  min-height: 500px;
+  line-height: 1.5em;
+}
 #page h1{
   margin-bottom: 30px;
 }
