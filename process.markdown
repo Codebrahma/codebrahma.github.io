@@ -13,6 +13,8 @@ We interact with you for 30-90 minutes, get to know about your idea and form use
 stories that clearly define the scope of the project. We add the stories on
 a project management tool like pivotal tracker.
 
+![User Story](/images/user_story.jpg)
+
 ### Step 2: Estimate
 
 Once agreed on the user stories, we estimate the complexity of each story and
@@ -24,7 +26,9 @@ Once agreed on the time frame, we break the stories down into sprints and establ
 
 ### Step 4: Feedback
 
-We set up a staging server where our continous delivery manager will automatically deploy the latest code we push. You can check the status of your project anytime on our staging server and provide us feedback
+We set up a staging server where our [continous delivery manager](http://jenkins-ci.org/) will automatically deploy the latest code we push. You can check the status of your project anytime on our staging server and provide us feedback
+
+![Jenkins](/images/jenkins.png)
 
 ### Step 5: Acceptance
 
