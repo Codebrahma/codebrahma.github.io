@@ -1,9 +1,11 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include header.html %}
+<section>
+  <div class="grid">
+    <div id="page" class="unit whole">
 
-<div class="post">
-{{ content }}
-</div>
+
+      {{ content }}
+    </div>
+  </div>
+</section>
+{% include footer.html %}
