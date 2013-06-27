@@ -67,6 +67,14 @@ olark.identify('3434-499-10-1508');/*]]>*/</script><noscript><a href="https://ww
         })(document,"script","hs-analytics",300000);
     </script>
 <!-- End of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+  olark('api.visitor.getDetails', function(details){
+    if(details.searchTextForThisVisit) {
+      olark('api.chat.sendNotificationToOperator', {body: details.searchTextForThisVisit});
+    }
+});
+</script>
+
         </body>
       </html>
 
