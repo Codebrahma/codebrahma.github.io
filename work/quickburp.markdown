@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product - Quickburp | Codebrahma
-permalink: quickburp/
+permalink: /work/quickburp/
 ---
 
 ## Quickburp

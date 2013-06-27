@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Client Project - Embibe | Codebrahma
-permalink: embibe/
+permalink: /work/embibe/
 ---
 
 ## Embibe

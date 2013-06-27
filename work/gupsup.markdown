@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product - Gupsup | Codebrahma
-permalink: gupsup/
+permalink: /work/gupsup/
 ---
 
 ## Gupsup

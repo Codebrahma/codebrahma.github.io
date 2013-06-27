@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Client Project - Sociorent | Codebrahma
-permalink: sociorent/
+permalink: /work/sociorent/
 ---
 
 ## Sociorent

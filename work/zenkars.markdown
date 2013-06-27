@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Client Project - Zenkars | Codebrahma
-permalink: zenkars/
+permalink: /work/zenkars/
 ---
 
 ## Zenkars
