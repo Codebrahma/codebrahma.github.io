@@ -232,3 +232,26 @@ footer {
 #page h1{
   margin-bottom: 30px;
 }
+
+
+/* article */
+#page article {
+  padding: 40px 40px 30px;
+  font-size: 21px;
+}
+
+#page article {
+  background: #444;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0 10px;
+  box-shadow: 0 3px 10px rgba(0,0,0,.1);
+  min-height: 540px;
+}
+
+#page article:after {
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden; }

@@ -37,6 +37,12 @@
 
 <script src="/scripts/jquery.min.js"></script>
 <script src="/scripts/hello.js"></script>
+<script src="/scripts/jquery.validate.min.js" type="text/javascript"> </script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#form").validate();
+});
+</script>
 <!-- begin olark code -->
 <script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
 f[z]=function(){
@@ -69,10 +75,15 @@ olark.identify('3434-499-10-1508');/*]]>*/</script><noscript><a href="https://ww
 <!-- End of Async HubSpot Analytics Code -->
 <script type="text/javascript">
   olark('api.visitor.getDetails', function(details){
-    if(details.searchTextForThisVisit) {
+    if(details.searchTextForThisVisit != '') {
       olark('api.chat.sendNotificationToOperator', {body: details.searchTextForThisVisit});
+      olark('api.chat.sendNotificationToOperator', {body: details.referrer});
     }
-});
+    if(details.searchTextForPreviousVisits != ''){
+      olark('api.chat.sendNotificationToOperator', {body: details.searchTextForPreviousVisits});
+      olark('api.chat.sendNotificationToOperator', {body: details.referrer});
+    }
+  });
 </script>
 
         </body>
