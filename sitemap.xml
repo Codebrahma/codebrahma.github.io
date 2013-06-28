@@ -4,7 +4,31 @@
         <loc>
             http://codebrahma.com/architecture/2013/06/18/service-oriented-architecture.html
         </loc>
-        <lastmod>2013-06-28T08:46:52+05:30</lastmod>
+        <lastmod>2013-06-28T21:08:55+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/rails_consultants/</loc>
+        <lastmod>2013-06-28T21:12:45+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/rails_developers/</loc>
+        <lastmod>2013-06-28T21:10:56+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/rails_programmers/</loc>
+        <lastmod>2013-06-28T21:13:17+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/ruby_consultants/</loc>
+        <lastmod>2013-06-28T21:11:41+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/ruby_developers/</loc>
+        <lastmod>2013-06-28T21:11:06+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://codebrahma.com/ruby_programmers/</loc>
+        <lastmod>2013-06-28T21:12:04+05:30</lastmod>
     </url>
     <url>
         <loc>http://codebrahma.com/blog/</loc>
@@ -24,7 +48,7 @@
     </url>
     <url>
         <loc>http://codebrahma.com/</loc>
-        <lastmod>2013-06-20T19:10:03+05:30</lastmod>
+        <lastmod>2013-06-28T21:06:01+05:30</lastmod>
     </url>
     <url>
         <loc>http://codebrahma.com/privacy_policy/</loc>
