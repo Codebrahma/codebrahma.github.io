@@ -11,7 +11,7 @@ body {
   color: #ddd;
   border-top: 5px solid #fcaf17;
   box-shadow: inset 0 3px 30px rgba(0, 0, 0, 0.3);
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5); }
+}
 
 .clear {
   display: block; }
@@ -37,6 +37,7 @@ body > header h1 span {
   display: none; }
 
 nav ul {
+  float: right;
   padding: 0;
   margin: 0; }
 
@@ -159,7 +160,7 @@ p {
   font-size: 0.8em; }
 
 #line p {
-  font-size: 1.75em;
+  font-size: 2em;
   line-height: 1em;
   margin: 12px 0; }
 
@@ -180,7 +181,6 @@ p {
   line-height: 24px;
   padding: 15px;
   color: #333333;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
   text-align: center; }
 
 .divider .code {
@@ -230,7 +230,9 @@ footer {
   line-height: 1.5em;
 }
 #page h1{
-  margin-bottom: 30px;
+  margin-bottom: 35px;
+  border-bottom: 1px solid #fc0;
+  padding-bottom: 5px;
 }
 
 
