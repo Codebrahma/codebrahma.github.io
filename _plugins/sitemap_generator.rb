@@ -147,6 +147,7 @@ module Jekyll
       site.posts.each do |post|
         if !excluded?(post.name)
           url = fill_url(site, post)
+          puts url
           urlset.add_element(url)
         end
 
@@ -168,6 +169,7 @@ module Jekyll
           path = page.full_path_to_source
           if File.exists?(path)
             url = fill_url(site, page)
+          puts url
             urlset.add_element(url)
           end
         end
