@@ -2,6 +2,8 @@
 layout: post
 title: Ruby Consultants For Hire
 permalink: ruby_consultants/
+description: We are a agile tdd following ruby on rails shop in bangalore
+keywords : Hire Ruby Consultants, Ruby Company, Ruby consultants
 ---
 
 <div class="unit golden-large" markdown="1">

@@ -2,6 +2,8 @@
 layout: post
 title: Rails Programmers For Hire
 permalink: rails_programmers/
+description: We are a agile tdd following ruby on rails shop in bangalore
+keywords : Hire Rails programmers, Rails Company, Rails programmers
 ---
 
 <div class="unit golden-large" markdown="1">

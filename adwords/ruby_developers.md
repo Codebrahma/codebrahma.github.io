@@ -2,6 +2,8 @@
 layout: post
 title: Ruby Developers For Hire
 permalink: ruby_developers/
+description: We are a agile tdd following ruby on rails shop in bangalore
+keywords : Ruby Developers, Hire Ruby Developers, Ruby Company, Ruby consultants
 ---
 
 <div class="unit golden-large" markdown="1">

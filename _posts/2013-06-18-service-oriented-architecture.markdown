@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Service Oriented Architecture"
+title:  "Quick start to Service Oriented Architecture"
 categories: architecture
+description: Quick 2 minute introduction to SOA
+keywords : Service Oriented Architecture, SOA, What is SOA, Quick start to SOA, Rails SOA
 ---
 # Service Oriented Architecture
 
