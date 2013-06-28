@@ -74,6 +74,11 @@ olark.identify('3434-499-10-1508');/*]]>*/</script><noscript><a href="https://ww
     </script>
 <!-- End of Async HubSpot Analytics Code -->
 <script type="text/javascript">
+  function getURLParameter(name) {
+    return decodeURI(
+        (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
+        );
+  }
   olark('api.visitor.getDetails', function(details){
     if(details.searchTextForThisVisit != '') {
       olark('api.chat.sendNotificationToOperator', {body: details.searchTextForThisVisit});
@@ -83,9 +88,13 @@ olark.identify('3434-499-10-1508');/*]]>*/</script><noscript><a href="https://ww
       olark('api.chat.sendNotificationToOperator', {body: details.searchTextForPreviousVisits});
       olark('api.chat.sendNotificationToOperator', {body: details.referrer});
     }
+    var keyword = getURLParameter('keyword');
+    if(keyword != 'null') {
+      console.log(keyword)
+      olark('api.chat.sendNotificationToOperator', {body: "paid for:" + keyword});
+    }
   });
 </script>
-
         </body>
       </html>
 
