@@ -3,7 +3,8 @@ layout: post
 title:  "How to get the best out of your offshore development partner"
 categories: productivity business
 description: A guide to get the best out of your consulting team in india
-keywords : Best Development Partner
+keywords: Best Development Partner
+published: false
 ---
 # Get the best out of your offshore development partner
 
