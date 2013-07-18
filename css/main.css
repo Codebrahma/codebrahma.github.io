@@ -164,6 +164,11 @@ p {
   line-height: 1em;
   margin: 12px 0; }
 
+
+#video iframe {
+  float:right;
+}
+
 @media (min-width: 569px) {
   .intro p {
     font-size: 1.6em; } }
