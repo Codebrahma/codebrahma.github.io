@@ -47,3 +47,5 @@ Pros:
 2. Testing and maintenance becomes a lot easier.
 3. Very Responsive.
 4. Server Resources are freed and its easier to scale.
+
+Have you used SOA in your architecture. What Messaging Queue did you use?
