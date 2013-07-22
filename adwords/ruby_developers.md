@@ -46,7 +46,8 @@ Contribuited to Open Source ruby projects like
 
    <p>
    <label  for="entry.394028531">How can we help you?</label>
-  <textarea name="entry.394028531" class="required" id="help" rows="8" cols="0"> </textarea>
+   <br/>
+  <textarea name="entry.394028531" class="required" id="help" rows="8" cols="19"> </textarea>
    </p>
 
   <input type="submit" name="submit" value="Get it NOW!" id="submit" />
