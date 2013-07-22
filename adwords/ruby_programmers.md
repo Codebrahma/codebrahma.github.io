@@ -54,9 +54,6 @@ Contribuited to Open Source ruby projects like
  </div>
 
 <style type="text/css">
-.main-nav {
-  visibility: hidden;  
-}
 
 label.error {
 display: list-item;
