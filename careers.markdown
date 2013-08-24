@@ -5,10 +5,13 @@ permalink: careers/
 nav: careers
 ---
 
-# Careers
+# Are you an awesome web developer who loves to build cool apps? We are looking for you
 
-We are looking for self-driven programmers who are believe in learning and
-strive to improve their code quality
+Solve the tiny puzzle below and mail it to [careers@codebrahma.com](mailto:careers@codebrahma.com)
+
+{% gist 6318439 %}
+
+<br>
 
 ### Web Developer
 
@@ -23,4 +26,18 @@ strive to improve their code quality
 1. Rails
 2. Rspec
 
-If you believe you have the ability to join us. Send an email right away to [careers@codebrahma.com](mailto:careers@codebrahma.com) and lets get started right away.
+<style type="text/css">
+h1 {
+ text-align:center;
+ line-height: 55px;
+}
+.line {
+ padding: 0 !important; 
+ border-bottom:none;
+}
+.gist {
+ font-size:14px; 
+ width:500px;
+ line-height:1em;
+}
+</style>
