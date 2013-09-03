@@ -33,3 +33,8 @@ Works hard and plays harder... Loves Algorithms and Rails
 
 Algorithmist. ACPC finalist. 
 
+### Abhishek Sarka
+
+<img src="/images/sarka.jpg" alt="Abhishek Sarka" style="width: 240px;"/>
+
+Javascript Ninja. Has created amazing jQuery plugins.
