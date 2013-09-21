@@ -9,7 +9,7 @@ description: Codebrahma VIT Questions
 <div id="questions" class="unit whole" markdown="1">
 1. Answer the programming questions and submit your solutions on this [form](https://docs.google.com/forms/d/1LbXG1TfjSy9jUOsLJv1mVqhPBS1XO0wECcP9cO1K5kY/viewform).
 2. You have 90 minutes time. Solve questions 1 and 2 first. Then the rest.
-3. Once you have answered a question correctly. Call one of the codebrahma team
+3. Once you have answered either the first/second question correctly. Call one of the codebrahma team
 members and get it verified. 
 4. The earlier you solve the more points you get.
 5. There are infinite ways to solve these problems. If two people submit identical solutions, both of them will be rejected. 
