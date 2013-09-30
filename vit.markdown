@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VIT 2014 Web developers
+title: SRM 2014 Web developers
 published: false
-permalink: xyz/
-description: Codebrahma VIT Questions
+permalink: srm/
+description: Codebrahma SRM Questions
 ---
 
 <div id="questions" class="unit whole" markdown="1">
