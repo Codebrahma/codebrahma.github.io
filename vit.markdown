@@ -18,7 +18,7 @@ members and get it verified.
 
 ## 1. Pyramid
 
-Using HTML/CSS/JS create a page where the user can enter a number(height of a pyramid).
+Using HTML/CSS/JS/jQuery create a page where the user can enter a number(height of a pyramid).
 As soon as the user enters the number, draw a pyramid with those many stacks.
 
 Eg. if the number is 10 , draw a pyramid with ten stacks.
@@ -29,7 +29,7 @@ Eg. if the number is 100, draw a pyramid with 100 stacks.
 
 ![10 pyramid](/images/100%20stacks.png)
 
-The width of the pyramid, should not exceed the width of the page(no vertical
+The width of the pyramid, should not exceed the width of the page(no horizontal
 scrolling).
 
 
@@ -59,7 +59,7 @@ If the integer is divisible by 5 it prints "Brahma"
 
 If the integer is divisible by 15 it prints "CodeBrahma"
 
-If the integer is not divisible by any of these numbers it prints "VIT"
+If the integer is not divisible by any of these numbers it prints "SRM"
 
 ## 4. Tip less
 
