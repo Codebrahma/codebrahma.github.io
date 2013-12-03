@@ -1,4 +1,5 @@
 {% include header.html %}
+<link href='/css/jcarousel.basic.css' rel='stylesheet' type='text/css'>
 <section>
   <div class="grid">
     <div id="page" class="unit whole">
@@ -28,3 +29,42 @@
   </div>
 </section>
 {% include footer.html %}
+<script type="text/javascript" src="/scripts/jcarousel.min.js"></script>
+<script type="text/javascript">
+  (function($) {
+    $(function() {
+        $('.jcarousel').jcarousel();
+
+        $('.jcarousel-control-prev')
+            .on('jcarouselcontrol:active', function() {
+                $(this).removeClass('inactive');
+            })
+            .on('jcarouselcontrol:inactive', function() {
+                $(this).addClass('inactive');
+            })
+            .jcarouselControl({
+                target: '-=1'
+            });
+
+        $('.jcarousel-control-next')
+            .on('jcarouselcontrol:active', function() {
+                $(this).removeClass('inactive');
+            })
+            .on('jcarouselcontrol:inactive', function() {
+                $(this).addClass('inactive');
+            })
+            .jcarouselControl({
+                target: '+=1'
+            });
+
+        $('.jcarousel-pagination')
+            .on('jcarouselpagination:active', 'a', function() {
+                $(this).addClass('active');
+            })
+            .on('jcarouselpagination:inactive', 'a', function() {
+                $(this).removeClass('active');
+            })
+            .jcarouselPagination();
+    });
+})(jQuery);
+</script>

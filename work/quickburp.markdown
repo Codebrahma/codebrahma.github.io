@@ -8,7 +8,30 @@ permalink: /work/quickburp/
 
 [quickburp](http://quickburp.com)
 
+<div class="jcarousel-wrapper">
+  <div class="jcarousel">
+    <ul>
+      <li><img src="/images/work/quickburp/home.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/hotels.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/hotel.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/order.png" width="700" height="400" alt=""></li>
+    </ul>
+  </div>
+
+  <a href="#" class="jcarousel-control-prev" data-jcarouselcontrol="true" title="">‹</a>
+  <a href="#" class="jcarousel-control-next" data-jcarouselcontrol="true" title="">›</a>
+  <p class="jcarousel-pagination"> </p>
+</div>
+
+### Technology
+
 Backbonejs, Rails, railsadmin
+
+### Effort
+
+3 engineers, 2 months
+
+### About
 
 Order Food Online. The uniqueness of this e-commerce site is it does a checkout
 in one single page.
