@@ -52,6 +52,6 @@ PHP, MySQL
 
 
 ### Kamesh
-<img src="/images/Kamesh.jpg" alt="Kamesh" style="width: 240px;"/>
+<img src="/images/kamesh.jpg" alt="Kamesh" style="width: 240px;"/>
 
 C, Javascript, PHP
