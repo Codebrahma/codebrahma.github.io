@@ -11,11 +11,11 @@ permalink: /work/artforth/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/artforth/homepage.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/artforth/pricing.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/artforth/signup.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/artforth/about.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/artforth/browser_art.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/artforth/homepage.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/artforth/pricing.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/artforth/signup.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/artforth/about.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/artforth/browser_art.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

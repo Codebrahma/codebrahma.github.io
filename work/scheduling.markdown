@@ -10,9 +10,9 @@ permalink: /work/scheduling/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/scheduling/scheduling.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/scheduling/repeat.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/scheduling/height.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/scheduling/scheduling.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/scheduling/repeat.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/scheduling/height.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

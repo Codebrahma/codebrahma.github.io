@@ -33,8 +33,25 @@ Works hard and plays harder... Loves Algorithms and Rails
 
 Algorithmist. ACPC finalist. 
 
-### Abhishek Sarka
+### Abhishek Sarkar
 
-<img src="/images/sarka.jpg" alt="Abhishek Sarka" style="width: 240px;"/>
+<img src="/images/sarka.jpg" alt="Abhishek Sarkar" style="width: 240px;"/>
 
 Javascript Ninja. Has created amazing jQuery plugins.
+
+### Pranav
+
+<img src="/images/pranav.jpg" alt="Pranav Dhar" style="width: 240px;"/>
+
+Purdue Grad, .NET , Angular and Rails GUY
+
+### Nithin Krishna
+<img src="/images/nithin.jpg" alt="Nithin Krishna" style="width: 240px;"/>
+
+PHP, MySQL
+
+
+### Kamesh
+<img src="/images/Kamesh.jpg" alt="Kamesh" style="width: 240px;"/>
+
+C, Javascript, PHP

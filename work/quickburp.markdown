@@ -11,10 +11,10 @@ permalink: /work/quickburp/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/quickburp/home.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/quickburp/hotels.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/quickburp/hotel.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/quickburp/order.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/home.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/hotels.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/hotel.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/quickburp/order.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

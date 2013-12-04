@@ -11,9 +11,9 @@ permalink: /work/tutorscoop/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/tutorscoop/account.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tutorscoop/cal.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tutorscoop/actions.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tutorscoop/account.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tutorscoop/cal.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tutorscoop/actions.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

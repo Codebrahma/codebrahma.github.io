@@ -11,16 +11,16 @@ permalink: /work/filmzu/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/filmzu/homepage.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/profile.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/conversations.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/all_listings.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/project_state.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/actors.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/projects.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/project_list.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/listings.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/filmzu/filtering.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/homepage.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/profile.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/conversations.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/all_listings.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/project_state.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/actors.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/projects.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/project_list.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/listings.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/filmzu/filtering.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

@@ -10,10 +10,10 @@ permalink: /work/prism/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/prism/homepage.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/prism/list.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/prism/prism.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/prism/conversation.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/prism/homepage.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/prism/list.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/prism/prism.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/prism/conversation.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

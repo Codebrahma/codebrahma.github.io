@@ -11,11 +11,11 @@ permalink: /work/tripeese/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/tripeese/home.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tripeese/flight.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tripeese/flight-schedule.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tripeese/hotels.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/tripeese/search.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tripeese/home.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tripeese/flight.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tripeese/flight-schedule.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tripeese/hotels.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/tripeese/search.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

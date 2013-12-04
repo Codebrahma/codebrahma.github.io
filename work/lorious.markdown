@@ -11,11 +11,11 @@ permalink: /work/lorious/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/lorious/homepage.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/lorious/search.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/lorious/serps.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/lorious/profile.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/lorious/scheduling.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/lorious/homepage.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/lorious/search.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/lorious/serps.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/lorious/profile.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/lorious/scheduling.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

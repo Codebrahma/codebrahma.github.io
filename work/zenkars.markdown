@@ -11,12 +11,12 @@ permalink: /work/zenkars/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/zenkars/homepage.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/zenkars/list.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/zenkars/profile.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/zenkars/desc.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/zenkars/4steps.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/zenkars/payment.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/homepage.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/list.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/profile.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/desc.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/4steps.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/zenkars/payment.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 

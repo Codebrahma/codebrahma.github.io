@@ -11,15 +11,15 @@ permalink: /work/embibe/
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="/images/work/embibe/home.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/analytics.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/invite_friends.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/gamification.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/learning_maps.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/see_solutions.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/speed_graph.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/speed_vs_accuracy.png" width="700" height="400" alt=""></li>
-      <li><img src="/images/work/embibe/time_graph.png" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/home.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/analytics.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/invite_friends.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/gamification.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/learning_maps.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/see_solutions.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/speed_graph.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/speed_vs_accuracy.jpg" width="700" height="400" alt=""></li>
+      <li><img src="/images/work/embibe/time_graph.jpg" width="700" height="400" alt=""></li>
     </ul>
   </div>
 
