@@ -255,6 +255,7 @@ footer {
   margin-bottom: 35px;
   border-bottom: 1px solid #fc0;
   padding-bottom: 5px;
+  line-height: 50px; 
 }
 
 
@@ -521,10 +522,10 @@ footer {
   display:none;
 }
 
-.line {
-  padding: 10px 0;
-  border-bottom:10px solid #0389aa;
-}
+/* .line { */
+/*   padding: 10px 0; */
+/*   border-bottom:10px solid #0389aa; */
+/* } */
 
 /* testimonial */
 
