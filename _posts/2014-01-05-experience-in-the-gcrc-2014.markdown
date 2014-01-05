@@ -66,7 +66,7 @@ This was a very interesting talk. Actually this has nothing to do with the title
 
 ### Lunch Sessions on both days
 
-The lunch was a buffet, with variety of foods. They provided fish, chicken, prawn, ghee rice, paneer makhni etc. And deserts were served too. We guys met with other fellow developers and were discussing about a variety of things. I got introduced by my friend to [Dheeraj Kumar](https://twitter.com/codepodu "Dheeraj's twitter profile") and [Vamsee Kanakala](https://twitter.com/vamsee "Vamsee's twitter profile"). We talked with these guys for a while. Finally we were approached by [Sathis](https://twitter.com/satishperala "Sathis's twitter profile")
+The lunch was a buffet, with variety of foods. They provided fish, chicken, prawn, ghee rice, paneer makhni etc. And deserts were served too. We guys met with other fellow developers and were discussing about a variety of things. I got introduced by my friend to [Dheeraj Kumar](https://twitter.com/codepodu "Dheeraj's twitter profile") and [Vamsee Kanakala](https://twitter.com/vamsee "Vamsee's twitter profile"). We talked with these guys for a while. Finally we were approached by [Sathis](https://twitter.com/satishperala "Sathis's twitter profile") and he was an inpiring guy.
 
 This was an awesome conf and we met many fellow developers. The most interesting talk was the one given by Chad, Aman and Gautham. Of course not to mention, the panel discussion.
 
