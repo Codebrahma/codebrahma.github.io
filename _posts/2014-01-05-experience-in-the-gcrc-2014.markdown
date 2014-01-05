@@ -7,9 +7,9 @@ keywords: Best Development Partner
 comments: true
 ---
 
-This is my personal experience about the Garden City Ruby Conference - 2014, which happened in Hotel Atria, Bangalore. We sponsored the conference and were given 2 complementry tickets. So, me and Nithin(one of my colleague's) went to the conference.
+First and Foremost, let me introduce my self. I am Yuvaraja Balamurugan([@charizard](https://twitter.com/Charizard_ "My twitter profile")). I work at [CodeBrahma Technologies](https://twitter.com/codebrahma "codebrahma's official twitter profile") as everything. I do project management, rails, backbone, coffeescript and to my surprise even mentoring.
 
-## January 3rd - Day 1
+This is my personal experience about the Garden City Ruby Conference - 2014, which happened in Hotel Atria, Bangalore. We sponsored the conference and were given 2 complementry tickets. So, me and Nithin(one of my colleague's) went to the conference.
 
 We reached the Hotel by 9:10 AM and we were invited in the hospitality desk. Since the tickets were sponsorship ticket's, they were in the name of Anand(our Founder & CEO). The girl in the desk asked for our names and we both told "Anand", at the same time. The girl was pretty confused and gave us both a weird look. Then I wasted one long sentence in my life explaining her the situation. Now everything went cool and she gave each of us a bunch of goodies and conference tags.
 
@@ -19,10 +19,6 @@ We reached the Hotel by 9:10 AM and we were invited in the hospitality desk. Sin
 I had no idea who Chad was. The compere [Swanand](https://twitter.com/_swanand "Swanand's twitter profile") introduced him as "the person who does not need any introduction's". So, I opened up my phone and googled for "Chad Fowler", I got his [github profile](https://github.com/chad "Chad's github profile"). I saw all his contributions. I came to know that he is a cool guy, not only in ruby but also in many other languages and frameworks.
 
 Now I started listening to this guy. He was trying to show off. But the way he showed off, impressed me. His keynote was entirely very abstract, not related to ruby or rails, but it was very genralized.
-
-### Tea/Coffee Break
-
-Something interesting happened during the break. I saw my college friend [Vysakh](https://twitter.com/vysakh0 "Vysakh's twitter profile"), we chatted along and introduced Nithin to him. We already started having this guys talk.
 
 ### Lessons Learnt Building India's Largest E-Commerce Supply Chain in Ruby - Yogi Kulkarni([@YogiKulkarni](https://twitter.com/YogiKulkarni "Yogi's twitter profile"))
 
@@ -39,10 +35,6 @@ He talked about Foreign Function Interface(FFI) for converting native code to ru
 ### Invited Talk - Coby Randquist([@kobier](https://twitter.com/kobier "Koby's twitter profile"))
 
 Coby is the founder of [confreaks(http://confreaks.com/ "Confreaks home page")]. This talk was basically about how confreaks was founded and the path in which confreaks came though etc.
-
-### Lunch
-
-The lunch was a buffet, with variety of foods. They provided fish, chicken, prawn, ghee rice, paneer makhni etc. And deserts were served too. We guys met with other fellow developers and were discussing about a variety of things. I got introduced by vysakh to [Dheeraj Kumar](https://twitter.com/codepodu "Dheeraj's twitter profile") and [Vamsee Kanakala](https://twitter.com/vamsee "Vamsee's twitter profile"). We talked with these guys for a while and we were chased away for the next speech. And thus, an awesome lunch came to an end.
 
 ### The Rails Girls Summer of Code journey - Sakshi Jain, Pallavi Shastry
 
@@ -68,4 +60,14 @@ The slides and code snipets are in [this](http://www.slideshare.net/amanking/sim
 
 This keynote speak was about Prateek's journey as an entrepreneur. His [muziboo](http://www.muziboo.com/ " muziboo's home page") days and the downfall of muziboo. His resurruction from the failure and his [supportbee](https://supportbee.com/ "supportbee's home page").
 
-This was an awesome day and we met many fellow developers. The most interesting talk was the one given by Chad and Aman. Of course not to mention, the panel discussion.
+### The Dark Side of Ruby - Gautam Rege([@gautamrege](https://twitter.com/gautamrege "Gautham's twitter profile"))
+
+This was a very interesting talk. Actually this has nothing to do with the title, the title was just to entrap the conf organisers, as said by Gautham himself. So this talk is all about how ruby stand's out from the other traditional Object Oriented Programming languages. We learn that private methods are inherited by it's subclasses and many more weird stuff in ruby. This talk was full of surprises and weirdness of ruby.
+
+### Lunch Sessions on both days
+
+The lunch was a buffet, with variety of foods. They provided fish, chicken, prawn, ghee rice, paneer makhni etc. And deserts were served too. We guys met with other fellow developers and were discussing about a variety of things. I got introduced by my friend to [Dheeraj Kumar](https://twitter.com/codepodu "Dheeraj's twitter profile") and [Vamsee Kanakala](https://twitter.com/vamsee "Vamsee's twitter profile"). We talked with these guys for a while. Finally we were approached by [Sathis](https://twitter.com/satishperala "Sathis's twitter profile")
+
+This was an awesome conf and we met many fellow developers. The most interesting talk was the one given by Chad, Aman and Gautham. Of course not to mention, the panel discussion.
+
+The best part about conference is not the talks, it's the new people we make friends with, new people with whom we decide to go out for drinks. So whenever you guys attend a conf, make sure you make a lot of friends.
