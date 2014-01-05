@@ -39,6 +39,10 @@ require 'rexml/document'
 
 module Jekyll
 
+  # Changed the encoding to UTF-8 to avoid "invalid byte sequence in US-ASCII" error
+  Encoding.default_external = Encoding::UTF_8
+  Encoding.default_internal = Encoding::UTF_8
+
   # Change MY_URL to reflect the site you are using
   MY_URL = "http://codebrahma.com"
 
