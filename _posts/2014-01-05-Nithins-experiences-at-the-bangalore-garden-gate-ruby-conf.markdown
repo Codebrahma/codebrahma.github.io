@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "My Experience at the Bangalore Golden City Ruby Conf 2014- Nithin"
+title:  "My Experience at the Bangalore garden City Ruby Conf 2014- Nithin"
 categories: bangalore rubyconf
 comments: true
-description: Nithins experiences at the bangalore golden gate ruby conf.
+description: Nithins experiences at the bangalore garden gate ruby conf.
 keywords : bangalore, rubyconf, ruby, conference, experience, 2014
 ---
-# My Experiences at the bangalore golden gate ruby conf - Nithin
+# My Experiences at the bangalore garden gate ruby conf - Nithin
 
 <img src="/images/yuvaatgcrc.jpg" alt="Yuvaraja of Codebrahma at Bangalore
-Golden City Ruby Conference" style="text-align:center;width: 400px;"/>
+garden City Ruby Conference" style="text-align:center;width: 400px;"/>
  
 Starting off in a predominantly [Ruby on Rails consulting firm](http://codebrahma.com) like Codebrahma, whilst still in college and with no prior ruby experience seemed daunting at first. I spent most of last month getting used to the 'Ruby Way' of doing things. I'm far form mastering ruby, but I'm able to enjoy and appriciate turse and elegant ruby code. “Coding in Ruby makes me happy because it’s one of the shortest paths between my brain and a computer”, Indeed it is.
 
 
-An absolute newbie to the ruby world, participating in an event like GCRC'14 filled with giants like [Chad Fowler](http://twitter.com/chadfowler)  'out of place' was the opposite of what I was feeling. The ruby world in warm and welcoming. 'The more The merrier' quoting one of the sepakers. The Bangalore Golden City Ruby Conference was not aimed to be just a conference and It didn't turn out to be just that. There is nothing more exciting than a group of like minded people coming together and talking about their passion. In that sense, the last couple of days were immensely exciting. I most enjoyed bouncing product ideas of each other, critiquing each other's ideas and understanding how diffrent people approach similar problems. I ended up expanding my scope of thought and pushing myself to ponder about things which I wouldn't normally think about, be it because it was too trivial or too complex.
+An absolute newbie to the ruby world, participating in an event like GCRC'14 filled with giants like [Chad Fowler](http://twitter.com/chadfowler)  'out of place' was the opposite of what I was feeling. The ruby world in warm and welcoming. 'The more The merrier' quoting one of the sepakers. The Bangalore garden City Ruby Conference was not aimed to be just a conference and It didn't turn out to be just that. There is nothing more exciting than a group of like minded people coming together and talking about their passion. In that sense, the last couple of days were immensely exciting. I most enjoyed bouncing product ideas of each other, critiquing each other's ideas and understanding how diffrent people approach similar problems. I ended up expanding my scope of thought and pushing myself to ponder about things which I wouldn't normally think about, be it because it was too trivial or too complex.
 
 ### The Dark Side of Ruby
 
@@ -32,5 +32,5 @@ All in all, It was an interesting couple of days. The best conferences are the o
 
 In that sense, the last couple of days were immensely exciting. I most enjoyed bouncing product ideas off others, critiquing, being critiqued and understanding how different people approached similar problems. I ended up expanding my scope of thought and pushing myself to ponder about things which I wouldn't normally think about, be it because it was too trivial or too complex.
 
-***Did you attend the bangalore golden city ruby conf? Please share your
+***Did you attend the bangalore garden city ruby conf? Please share your
 experiences as comments below***
