@@ -7,6 +7,9 @@ description: Nithins experiences at the bangalore golden gate ruby conf.
 keywords : bangalore, rubyconf, ruby, conference, experience, 2014
 ---
 # My Experiences at the bangalore golden gate ruby conf - Nithin
+
+<img src="/images/yuvaatgcrc.jpg" alt="Yuvaraja of Codebrahma at Bangalore
+Golden City Ruby Conference" style="text-align:center;width: 400px;"/>
  
 Starting off in a predominantly [Ruby on Rails consulting firm](http://codebrahma.com) like Codebrahma, whilst still in college and with no prior ruby experience seemed daunting at first. I spent most of last month getting used to the 'Ruby Way' of doing things. I'm far form mastering ruby, but I'm able to enjoy and appriciate turse and elegant ruby code. “Coding in Ruby makes me happy because it’s one of the shortest paths between my brain and a computer”, Indeed it is.
 
