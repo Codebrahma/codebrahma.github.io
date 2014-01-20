@@ -55,3 +55,8 @@ PHP, MySQL
 <img src="/images/kamesh.jpg" alt="Kamesh" style="width: 240px;"/>
 
 C, Javascript, PHP
+
+### Satya Pramodh Mazumdar
+<img src="/images/pramodh.jpg" alt="Satya Pramodh Mazumdar" style="width: 240px;"/>
+
+PHP, MySQL
