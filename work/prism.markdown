@@ -32,8 +32,8 @@ Rails, RSpec
 
 ### About
 
-Prism is marketing team management softwares
+Prism is a marketing team management software
 
-It works like klout. Your employees social networking accounts are linked to
+It works like klout. Your employee's social networking accounts are linked to
 prism. Prism monitors these accounts and creates a klout score for them based
 on a complex algorithm
