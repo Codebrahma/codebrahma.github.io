@@ -6,6 +6,9 @@ comments: true
 description: Getting started with javascript promises
 keywords : javascript, promises, javascript promises, callback hell, $q, Q
 ---
+# Javascript Promises 
+-Nithin Krishna
+
 ## Callback Hell?
 
 A **callback** is a block of code passed an an argument to a function, which can be executed by the function at a suitable time. There is nothing wrong with callbacks, but when you have conditions where you have multiple callbacks nested within each other, it becomes very messy. 
