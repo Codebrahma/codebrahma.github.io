@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Git Hunks"
+categories: git
+comments: true
+description: Understanding Git Hunks
+tags: 
+  - git
+  - staging
+  - vcs
+author: Yuvaraja Balamurugan
+handle: "Charizard_"
+---
+Git is one of my favorite softwares. It always impresses me. Here is one of the awesome tools in git.
+
+Let us consider a scenario where you modify a file and you just want to stage a part of the file. You stage hunk by hunk in git using the <code>--patch</code> option on <code>git add</code>.
+
+When you do <code>git add . -p</code> you will be presented with each hunk that is changed and various options like this
+
+{% highlight bash %}
+    diff --git a/sample.txt b/sample.txt
+    index 65d26ae..1618d01 100644
+    --- a/sample.txt
+    +++ b/sample.txt
+    @@ -1,3 +1,5 @@
+     Hi,
+     
+    +This text was added now.
+    +
+     This text was present initially.
+    Stage this hunk [y,n,q,a,d,/,e,?]? 
+{% endhighlight %}
+
+You can type <code>y</code> to add the hunk, or <code>n</code> to reject the hunk and it won't be staged. Or you can type <code>e</code> to edit the hunk. And you will be presented with the hunk and a detailed description of how to edit the hunk.
+
+{% highlight bash %}
+    # Manual hunk edit mode -- see bottom for a quick guide
+    @@ -1,3 +1,5 @@
+     Hi,
+    
+    +This text was added now.
+    +
+     This text was present initially.
+    # ---
+    # To remove '-' lines, make them ' ' lines (context).
+    # To remove '+' lines, delete them.
+    # Lines starting with # will be removed.
+    #
+    # If the patch applies cleanly, the edited hunk will immediately be
+    # marked for staging. If it does not apply cleanly, you will be given
+    # an opportunity to edit again. If all lines of the hunk are removed,
+    # then the edit is aborted and the hunk is left unchanged.
+{% endhighlight %}
+
+If you are aware of some other awesome git tools let us know in the comments below.
