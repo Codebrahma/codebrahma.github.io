@@ -4,7 +4,8 @@ title:  "Bangalore - The Globe's startup hub"
 categories: bangalore startup destination rails
 comments: true
 description: Why Bangalore is the answer for your technology needs
-keywords : Bangalore, ruby on rails, startup hub, technology hub
+keywords: Bangalore, ruby on rails, startup hub, technology hub
+tags: ["bangalore", "ruby on rails", "technology"]
 ---
 # Bangalore the globe's startup hub
  
