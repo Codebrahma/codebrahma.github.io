@@ -16,7 +16,7 @@ These packs are Nitro and Boost. Nitro increases the speed of the car by 30kmph 
 Also a car can add any number of these utilities to reach super high speeds.
 
 ## Solving using Inheritance
-{% highlight ruby %}
+```ruby
    class Car
      def top_speed
        100
@@ -32,7 +32,7 @@ Also a car can add any number of these utilities to reach super high speeds.
        super + 50
      end
    end
-{% endhighlight %}
+```
 The drawback of this pattern is
 *  The subclasses are tightly coupled to the super class. Suppose if the we change the name of the method in the super class we need to make these changes to our subclasses as well.
 *  No way of adding any packs to a car dynamically. If in a certain scenario we need a car with two nitro packs and three boost packs it's not easy with this architecture.
@@ -52,7 +52,7 @@ The decorator pattern allows you to attach additional responsibilities to an obj
 
 Now that we have identified what decorators we need let's write it
 
-{% highlight ruby %}
+```ruby
    class Nitro
      # Wrapping the component class, Car object in this case
      def initialize(component)
@@ -72,15 +72,14 @@ Now that we have identified what decorators we need let's write it
        @component.top_speed + 50
      end
    end
-{% endhighlight %}
-
+```
 Now we can start using our decorators to add new packs to a car object.
 
-{% highlight ruby %}
+```ruby
    Nitro.new(Car.new).top_speed #130
    Nitro.new(Nitro.new(Car.new)).top_speed #160
    Boost.new(Nitro.new(Car.new)).top_speed #180
-{% endhighlight %}
+```
 
 That's it, our shiny new power packed cars are ready to be driven ;)
 
