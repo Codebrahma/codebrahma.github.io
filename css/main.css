@@ -252,7 +252,7 @@ footer {
   line-height: 1.5em;
 }
 #page h1{
-  margin-bottom: 35px;
+  margin-bottom: 5px;
   border-bottom: 1px solid #fc0;
   padding-bottom: 5px;
   line-height: 50px; 
@@ -266,11 +266,11 @@ footer {
 }
 
 #page article {
-  background: #444;
+  /*background: #444;*/
   border-radius: 10px;
   padding: 20px;
   margin: 0 10px;
-  box-shadow: 0 3px 10px rgba(0,0,0,.1);
+  /*box-shadow: 0 3px 10px rgba(0,0,0,.1);*/
   min-height: 540px;
 }
 
@@ -280,6 +280,19 @@ footer {
   height: 0;
   clear: both;
   visibility: hidden; }
+
+#page article div.author:before {
+  content: "by";
+  clear: both;
+}
+
+#page article ul.tags li {
+  list-style-type: none;
+}
+
+#page article ul.tags li:before {
+  content: "-";
+}
 
 /* #submit { */
 /* border: 0; */
