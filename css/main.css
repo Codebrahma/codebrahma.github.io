@@ -511,20 +511,6 @@ footer {
   width:105%;
 }
 
-.number {
-  display:inline-block;
-  font-size:30px;
-  font-weight: bold;
-  margin-right: 20px;
-  color: #fc0;
-  cursor: pointer;
-  -moz-transition: all .25s;
-  -webkit-transition: all .25s; 
-}
-.number:hover {
-  color: #f90; 
-}
-
 .point_header:hover {
   color: #f90; 
 }
