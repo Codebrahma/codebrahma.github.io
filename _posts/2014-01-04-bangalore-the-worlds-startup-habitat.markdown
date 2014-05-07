@@ -6,9 +6,9 @@ comments: true
 description: Why Bangalore is the answer for your technology needs
 keywords: Bangalore, ruby on rails, startup hub, technology hub
 tags: ["bangalore", "ruby on rails", "technology"]
+author: Anand Narayan
+handle: codeanand
 ---
-# Bangalore the globe's startup hub
- 
 
 Are you a start up in search of solution for your technology needs. Are you a Local Business trying to start or grow your company's online presence and engagement in your locality ?  Read Further. 
 

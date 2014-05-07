@@ -6,8 +6,9 @@ comments: true
 description: Quick 2 minute introduction to SOA
 keywords: Service Oriented Architecture, SOA, What is SOA, Quick start to SOA, Rails SOA
 tags: ["SOA", "rails"]
+author: Anand Narayan
+handle: codeanand
 ---
-# Service Oriented Architecture
 
 SOA, an abbreviation that is frequent in text-books, but not so much in codebases.
 

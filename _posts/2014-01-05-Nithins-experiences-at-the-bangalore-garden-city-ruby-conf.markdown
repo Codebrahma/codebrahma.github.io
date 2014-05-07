@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "My Experience at the Bangalore Garden City Ruby Conf 2014- Nithin"
+title:  "My Experience at the Bangalore Garden City Ruby Conf 2014"
 categories: bangalore rubyconf
 comments: true
 description: Nithins experiences at the bangalore garden city ruby conf.
 keywords : bangalore, rubyconf, ruby, conference, experience, 2014
+tags: bangalore gcrc2014 rubyconf
+author: Nithin Krishna
+handle: nithinkrishh
 ---
-# My Experiences at the bangalore garden city ruby conf - Nithin
 
 <img src="/images/yuvaatgcrc.jpg" alt="Yuvaraja of Codebrahma at Bangalore garden City Ruby Conference" style="text-align:center;width: 400px;"/>
  

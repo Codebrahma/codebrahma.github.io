@@ -5,8 +5,10 @@ categories: productivity business
 description: A guide to get the best out of your consulting team in india
 keywords: Best Development Partner
 comments: true
+tags: ["business"]
+author: Anand Narayan
+handle: codeanand
 ---
-# 7 practice to follow when you offshore
 
 Clients tend to feel concerned when they offshore their development. They
 worry if the dev team will align with their thought process. Here are a few
