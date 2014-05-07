@@ -10,7 +10,7 @@ body {
   background: #333333;
   color: #ddd;
   border-top: 5px solid #fcaf17;
-  box-shadow: inset 0 3px 30px rgba(0, 0, 0, 0.3);
+  /* box-shadow: inset 0 3px 30px rgba(0, 0, 0, 0.3); */
 }
 
 .clear {
@@ -258,6 +258,14 @@ footer {
   line-height: 50px; 
 }
 
+/* blog index */
+#home div.preview-post{
+  margin-bottom: 40px;
+}
+
+.upcase {
+  text-transform: uppercase;
+}
 
 /* article */
 #page article {
