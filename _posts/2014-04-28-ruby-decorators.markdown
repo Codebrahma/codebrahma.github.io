@@ -4,11 +4,11 @@ title:  "Ruby Decorators"
 categories: design patterns
 comments: true
 description: Understanding the decorator pattern
-keywords : ruby, decorator, decorator pattern, design patterns, rails, ruby on rails
+keywords: ruby, decorator, decorator pattern, design patterns, rails, ruby on rails
+tags: ["ruby", "design patterns", "decorator", "ruby on rails"]
+author: Abhishek Sarkar
+handle: Abisheksarkar
 ---
-
-# Ruby Decorators 
--Abhishek Sarkar
 
 Let us consider a problem in which we have a Car class. 
 The top speed of any car is a maximum of 100kmph but by adding extra power packs to the car we can increase the speed of the car. 

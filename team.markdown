@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Team | Codebrahma
 permalink: team/
 nav: team

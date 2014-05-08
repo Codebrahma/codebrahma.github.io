@@ -1,3 +1,4 @@
 _site
 deploy.sh
 .DS_Store
+*.swp

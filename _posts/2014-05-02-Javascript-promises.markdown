@@ -4,10 +4,11 @@ title:  "Javascript Promises"
 categories: javascript
 comments: true
 description: Getting started with javascript promises
-keywords : javascript, promises, javascript promises, callback hell, $q, Q
+keywords: javascript, promises, javascript promises, callback hell, $q, Q
+tags: ["javascript", "promises", "callbacks"]
+author: Nithin Krishna
+handle: nithinkrishh
 ---
-# Javascript Promises 
--Nithin Krishna
 
 ## Callback Hell?
 
