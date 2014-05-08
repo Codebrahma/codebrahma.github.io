@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: normal
 title: Careers | Codebrahma
 permalink: careers/
 nav: careers
