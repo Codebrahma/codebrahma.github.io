@@ -1,0 +1,50 @@
+---
+layout: normal
+title: Team | Codebrahma
+permalink: team/
+nav: team
+---
+
+<h1>Team</h1>
+
+<p>
+We are a team of self-driven individuals working with an aligned philosophy in our approach towards product development. We are not a bunch of coders. We believe that coding is a small part of our job descriptions. We believe that it takes passion, practices and process that makes us wholly successful in creating great products. We are obsessed about simplicity to the extent that it is the way of life at Code Brahma. We continuously strive to keep the product expectation and its realization in sync. Our outlook on quality is much simpler: we do it for ourselves because we believe our work is a reflection of our practices, our brand and ultimately our own identities. 
+</p>
+
+{% for employee in site.data.members %}
+  {% assign loopindex = forloop.index | modulo: 3 %}
+  {% case loopindex %}
+    {% when 1 %}
+    <div class="team grid">
+      <div class="unit one-third">
+        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
+        <div class="employee_description">
+          <div class="tag_line">{{ employee.name }}</div>
+          <p>
+            {{ employee.description }}
+          </p>
+        </div>
+      </div>
+    {% when 2 %} 
+      <div class="unit one-third">
+        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
+        <div class="employee_description">
+          <div class="tag_line">{{ employee.name }}</div>
+          <p>
+            {{ employee.description }}
+          </p>
+        </div>
+      </div>
+    {% when 0 %}
+      <div class="unit one-third">
+        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
+        <div class="employee_description">
+          <div class="tag_line">{{ employee.name }}</div>
+          <p>
+            {{ employee.description }}
+          </p>
+        </div>
+      </div>
+  {% endcase %}
+{% endfor %}
+

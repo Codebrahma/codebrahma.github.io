@@ -1,0 +1,31 @@
+- name: Anand Narayan
+  gravatar_email: i@codeanand.com
+  contact_email: anand@codebrahma.com
+  description: One of the first employees in interviewstreet and lover of TDD, Coffeescript and rails. Father to a cute little baby girl.
+  tag_line: CEO & Founder
+- name: Sri Vishnu Totakura
+  gravatar_email: vishnu@codebrahma.com
+  contact_email: vishnu@codebrahma.com
+  description: A sublime enthusiast, vim hater, coffeescript lover and chick magnet. I think that watching movies are a waste of time.
+  tag_line: Chick Magnet
+- name: Yuvaraja Balamurugan
+  gravatar_email: yuv.slm@gmail.com
+  contact_email: yuvaraja@codebrahma.com
+  description: Biker, rails lover and photographer. Poor at photoshopping and handling girls. Wanna become a travelling photographer.
+  tag_line: Charizard
+- name: Nithin Krishna 
+  gravatar_email: nithin@codebrahma.com
+  contact_email: nithin@codebrahma.com
+  description: Believes that love doesn't have age. Wanna become a gymer and I hate to have a hair cut.
+  tag_line: Mr. Gymer
+- name: Kameshwaran 
+  gravatar_email: kamesh@codebrahma.com
+  contact_email: kamesh@codebrahma.com
+  description: I belive that god is everything and everything is god. When I don't comb my hair, then it means shit just got serious.
+  tag_line: Fast Learner
+- name: Sathya Pramod
+  gravatar_email: pramodh@codebrahma.com
+  contact_email: pramodh@codebrahma.com
+  description: I always make sure that I hunt, before I am hunted. Loves to watch TV Series.
+  tag_line: Joffrey Baratheon
+
