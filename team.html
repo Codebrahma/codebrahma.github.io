@@ -23,12 +23,12 @@ We are a team of self-driven individuals working with an aligned philosophy in o
               <span class="og-close"></span>
               <div class="og-fullimg">
                   <div class="og-loading"></div>
-                  <img src="images/2.jpg">
+                  <img src="{{ employee.gravatar_email | to_gravatar: 400 }}">
               </div>
               <div class="og-details">
                 <h3>{{ employee.tag_line }}</h3>
                 <p>{{ employee.description }}</p>
-                  <a href="#">Visit website</a>
+                <a href="https://twitter.com/{{ employee.handle }}">Twitter</a>
               </div>
           </div>
       </div>
