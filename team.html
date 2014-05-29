@@ -11,40 +11,29 @@ nav: team
 We are a team of self-driven individuals working with an aligned philosophy in our approach towards product development. We are not a bunch of coders. We believe that coding is a small part of our job descriptions. We believe that it takes passion, practices and process that makes us wholly successful in creating great products. We are obsessed about simplicity to the extent that it is the way of life at Code Brahma. We continuously strive to keep the product expectation and its realization in sync. Our outlook on quality is much simpler: we do it for ourselves because we believe our work is a reflection of our practices, our brand and ultimately our own identities. 
 </p>
 
-{% for employee in site.data.members %}
-  {% assign loopindex = forloop.index | modulo: 3 %}
-  {% case loopindex %}
-    {% when 1 %}
-    <div class="team grid">
-      <div class="unit one-third">
-        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
-        <div class="employee_description">
-          <div class="tag_line">{{ employee.name }}</div>
-          <p>
-            {{ employee.description }}
-          </p>
-        </div>
+<div class="description_baloon">
+  <ul id="og-grid" class="og-grid">
+    {% for employee in site.data.members %} 
+      <li>
+      <a href="#" data-largesrc="{{ employee.gravatar_email | to_gravatar: 400 }}" data-title="{{ employee.name }}" data-description="{{ employee.description }}">
+        <img src="{{ employee.gravatar_email | to_gravatar: 250 }}" alt="img01"/>
+          </a>
+          <div class="og-expander">
+          <div class="og-expander-inner">
+              <span class="og-close"></span>
+              <div class="og-fullimg">
+                  <div class="og-loading"></div>
+                  <img src="images/2.jpg">
+              </div>
+              <div class="og-details">
+                <h3>{{ employee.tag_line }}</h3>
+                <p>{{ employee.description }}</p>
+                  <a href="#">Visit website</a>
+              </div>
+          </div>
       </div>
-    {% when 2 %} 
-      <div class="unit one-third">
-        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
-        <div class="employee_description">
-          <div class="tag_line">{{ employee.name }}</div>
-          <p>
-            {{ employee.description }}
-          </p>
-        </div>
-      </div>
-    {% when 0 %}
-      <div class="unit one-third">
-        <img class="center" src="{{ employee.gravatar_email | to_gravatar: 280 }}" alt="{{ employee.name }}"/>
-        <div class="employee_description">
-          <div class="tag_line">{{ employee.name }}</div>
-          <p>
-            {{ employee.description }}
-          </p>
-        </div>
-      </div>
-  {% endcase %}
-{% endfor %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
 
