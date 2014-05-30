@@ -2,33 +2,51 @@
   gravatar_email: i@codeanand.com
   contact_email: anand@codebrahma.com
   description: Anand Narayan heads the operations at codebrahma. Takes care of hiring, growth and human resources. He founded codebrahma in september 2014 and is very passionate about building web applications that solve a problem.
-  tag_line: CEO & Founder
   handle: codeanand
+  facebook_username: codeanand
 - name: Sri Vishnu Totakura
   gravatar_email: vishnu@codebrahma.com
   contact_email: vishnu@codebrahma.com
   description: With a Masters in Software Engineering from the esteemed VIT university. Even though he worked in many areas of computing Web development stays closest to his interests list. With affluent knowledge in PHP, Ruby on rails etc he believes that it is always easy to learn than to unlearn. Simply stating he's a powerhouse of creative knowledge and a hard worker who never fails to deliver.
-  tag_line: Chick Magnet
 - name: Yuvaraja Balamurugan
-  gravatar_email: yuv.slm@gmail.com
+  gravatar_email: yuvaraja@codebrahma.com
   contact_email: yuvaraja@codebrahma.com
-  description: Biker, rails lover and photographer. Poor at photoshopping and handling girls. Wanna become a travelling photographer.
-  tag_line: Charizard
+  description: Biker, Rails lover and Photographer. Always learns new technologies only if impressed by it. Poor at handling girls. Green tea drinker, but addicted to Coffee. A vim user. A proud Manchester United & Rajinikant Fan. Wanna become a travelling photographer.
   handle: Charizard_
+  facebook_username: YuviCharizard
+- name: Abhishek Sarkar
+  gravatar_email: abhisheksarka@gmail.com
+  contact_email: abhishek@codebrahma.com
+  description: I am a SMOKER.
+  handle: sarka_neo
+  facebook_username: sarka.neo
+- name: Pranav Dhar
+  gravatar_email: pranav@codebrahma.com
+  contact_email: pranav@codebrahma.com
+  description: I was found at the bannerghetta zoological park along with some tigers and trained by Anand.
+  handle: 
+  facebook_username: 13750593 
 - name: Nithin Krishna 
   gravatar_email: nithin@codebrahma.com
   contact_email: nithin@codebrahma.com
   description: Believes that love doesn't have age. Wanna become a gymer and I hate to have a hair cut.
-  tag_line: Mr. Gymer
   handle: nithinkrishh
+  facebook_username: nithinkrishh
 - name: Kameshwaran 
   gravatar_email: kamesh@codebrahma.com
   contact_email: kamesh@codebrahma.com
-  description: I belive that god is everything and everything is god. When I don't comb my hair, then it means shit just got serious.
-  tag_line: Fast Learner
+  description: Passionate in programming. Reads novels, stories and books. Interested to work in professionally challenging environment. Always self motivated and loves to develop web applications in Ruby on Rails.
+  handle: kameshvit
+  facebook_username: kamesh.waran.58152
 - name: Sathya Pramod
   gravatar_email: pramodh@codebrahma.com
   contact_email: pramodh@codebrahma.com
   description: I always make sure that I hunt, before I am hunted. Loves to watch TV Series.
-  tag_line: Joffrey Baratheon
+  facebook_username: satyapramodh
+- name: Naveen Pranesh
+  gravatar_email: naveenpraneshk@codebrahma.com
+  contact_email: naveenpraneshk@codebrahma.com
+  description: Naveen manages projects in Codebrahma. He is an obsessive planner and a system Architecture enthusiast. Likes Cafes, Beaches, Hiking and Technology. Dislikes Monotony.
+  handle: 
+  facebook_username: naveen.pranesh.77
 
