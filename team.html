@@ -15,7 +15,15 @@ We are a team of self-driven individuals working with an aligned philosophy in o
   <ul id="og-grid" class="og-grid">
     {% for employee in site.data.members %} 
       <li>
-      <a href="https://twitter.com/{{ employee.handle }}" data-largesrc="{{ employee.gravatar_email | to_gravatar: 400 }}" data-title="{{ employee.name }}" data-description="{{ employee.description }}">
+      <a href="#" 
+        data-name="{{ employee.name | downcase | split: ' ' | join: '_' }}"
+        {% if employee.handle %}
+          data-twitter="https://twitter.com/{{ employee.handle }}" 
+        {% endif %} 
+        {% if employee.facebook_username %}
+          data-facebook="https://www.facebook.com/{{ employee.facebook_username }}" 
+        {% endif %}
+        data-largesrc="{{ employee.gravatar_email | to_gravatar: 400 }}" data-title="{{ employee.name }}" data-description="{{ employee.description }}">
         <img src="{{ employee.gravatar_email | to_gravatar: 250 }}" alt="img01"/>
           </a>
       </li>

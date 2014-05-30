@@ -210,9 +210,14 @@ var Grid = (function() {
 			getWinSize();
 			// initialize some events
 			initEvents();
-
-		} );
-
+    
+      // Open the preview if a hash is present
+      if(location.hash != undefined){
+        var preview = location.hash.replace('#','');
+        $('a[data-name='+ preview +']').click();
+      }
+      
+		});
 	}
 
 	// add more items to the grid.
@@ -279,6 +284,10 @@ var Grid = (function() {
 			var $item = $( this ).parent();
 			// check if item already opened
 			current === $item.index() ? hidePreview() : showPreview( $item );
+        
+      //Update the location hash
+      location.hash = $item.children('a').data('name');
+
 			return false;
 
 		} );
@@ -322,6 +331,7 @@ var Grid = (function() {
 		// expand preview overlay
 		preview.open();
 
+
 	}
 
 	function hidePreview() {
@@ -344,8 +354,9 @@ var Grid = (function() {
 			// create Preview structure:
 			this.$title = $( '<h3></h3>' );
 			this.$description = $( '<p></p>' );
-			this.$href = $( '<a href="#">Visit website</a>' );
-			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
+			this.$facebook = $( '<a href="#" style="margin-left: 20px;" target="_blank">Facebook</a>' );
+			this.$twitter = $( '<a href="#" target="_blank">Twitter</a>' );
+			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$twitter, this.$facebook);
 			this.$loading = $( '<div class="og-loading"></div>' );
 			this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
 			this.$closePreview = $( '<span class="og-close"></span>' );
@@ -377,9 +388,10 @@ var Grid = (function() {
 			current = this.$item.index();
 
 			// update preview´s content
-			var $itemEl = this.$item.children( 'a' ),
+			var $itemEl = this.$item.children( 'a' );
 				eldata = {
-					href : $itemEl.attr( 'href' ),
+					facebook : $itemEl.data( 'facebook' ),
+					twitter : $itemEl.data( 'twitter' ),
 					largesrc : $itemEl.data( 'largesrc' ),
 					title : $itemEl.data( 'title' ),
 					description : $itemEl.data( 'description' )
@@ -387,7 +399,8 @@ var Grid = (function() {
 
 			this.$title.html( eldata.title );
 			this.$description.html( eldata.description );
-			this.$href.attr( 'href', eldata.href );
+      this.$facebook.attr( 'href', eldata.facebook ); 
+			this.$twitter.attr( 'href', eldata.twitter ); 
 
 			var self = this;
 			
