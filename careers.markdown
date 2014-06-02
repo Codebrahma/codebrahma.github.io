@@ -20,11 +20,11 @@ Take a look at our [facebook page](https://www.facebook.com/media/set/?set=a.580
 <div class="jcarousel-wrapper">
   <div class="jcarousel">
     <ul>
-      <li><img src="//fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1536504_580030688751149_371234953_n.jpg" width="700" height="400" alt=""></li>
-      <li><img src="//fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/1013294_580032682084283_1819974908_n.jpg" width="700" height="400" alt=""></li>
-      <li><img src="//fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/t1/1546345_580030398751178_719329059_n.jpg" width="700" height="400" alt=""></li>
-      <li><img src="//fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1510929_580032258750992_1160202734_n.jpg" width="700" height="400" alt=""></li>
-      <li><img src="//fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn1/t1/1186784_580033145417570_2137558335_n.jpg" width="700" height="400" alt=""></li>
+      <li><img src="//fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-ash3/t1/1536504_580030688751149_371234953_n.jpg" width="700" height="auto" alt=""></li>
+      <li><img src="//fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/t1/1013294_580032682084283_1819974908_n.jpg" width="700" height="auto" alt=""></li>
+      <li><img src="//fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/t1/1546345_580030398751178_719329059_n.jpg" width="700" height="auto" alt=""></li>
+      <li><img src="//fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn2/t1/1510929_580032258750992_1160202734_n.jpg" width="700" height="auto" alt=""></li>
+      <li><img src="//fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-prn1/t1/1186784_580033145417570_2137558335_n.jpg" width="700" height="auto" alt=""></li>
     </ul>
   </div>
 

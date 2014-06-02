@@ -1,0 +1,52 @@
+---
+layout: normal
+title: Team | Codebrahma
+permalink: team/
+nav: team
+---
+
+<script>
+$(function(){    
+  window.to_gravatar_url = function (email, size){
+    return "http://www.gravatar.com/avatar/"+ CryptoJS.MD5(email) +"?s="+ size;
+  }; 
+
+  window.set_data_element = function(element, selector, attribute, email, size){
+    $(element+"[data-name='"+selector+"']").data(attribute, to_gravatar_url(email, size));
+  };
+});
+</script>
+
+
+<h1>Team</h1>
+
+<p>
+We are a team of self-driven individuals working with an aligned philosophy in our approach towards product development. We are not a bunch of coders. We believe that coding is a small part of our job descriptions. We believe that it takes passion, practices and process that makes us wholly successful in creating great products. We are obsessed about simplicity to the extent that it is the way of life at Code Brahma. We continuously strive to keep the product expectation and its realization in sync. Our outlook on quality is much simpler: we do it for ourselves because we believe our work is a reflection of our practices, our brand and ultimately our own identities. 
+</p>
+
+<div class="description_baloon">
+  <ul id="og-grid" class="og-grid">
+    {% for employee in site.data.members %} 
+      <li>
+      <a href="#" 
+        data-name="{{ employee.name | downcase | split: ' ' | join: '_' }}"
+        {% if employee.handle %}
+          data-twitter="https://twitter.com/{{ employee.handle }}" 
+        {% endif %} 
+        {% if employee.facebook_username %}
+          data-facebook="https://www.facebook.com/{{ employee.facebook_username }}" 
+        {% endif %}
+        data-title="{{ employee.name }}" data-description="{{ employee.description }}">
+        <script>
+          $(function(){
+            var email = "{{ employee.gravatar_email }}"
+            set_data_element("a", "{{ employee.name | downcase | split: ' ' | join: '_' }}", "largesrc", email, 420);
+            $("<img/>").attr('src', to_gravatar_url(email, 220)).appendTo("a[data-name={{ employee.name | downcase | split: ' ' | join: '_' }}]"); 
+          });
+        </script>
+          </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
