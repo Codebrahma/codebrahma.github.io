@@ -23,8 +23,8 @@ We are a team of self-driven individuals working with an aligned philosophy in o
         {% if employee.facebook_username %}
           data-facebook="https://www.facebook.com/{{ employee.facebook_username }}" 
         {% endif %}
-        data-largesrc="{{ employee.gravatar_email | to_gravatar: 400 }}" data-title="{{ employee.name }}" data-description="{{ employee.description }}">
-        <img src="{{ employee.gravatar_email | to_gravatar: 250 }}" alt="img01"/>
+        data-largesrc="http://www.gravatar.com/avatar/{{ employee.gravatar_email | md5 }}?s=420" data-title="{{ employee.name }}" data-description="{{ employee.description }}">
+        <img src="http://www.gravatar.com/avatar/{{ employee.gravatar_email | md5 }}?s=240"/>
           </a>
       </li>
     {% endfor %}
