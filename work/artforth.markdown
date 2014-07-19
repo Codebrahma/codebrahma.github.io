@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Client Project - artforth | Codebrahma
 permalink: /work/artforth/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Client Project - Tripeese | Codebrahma
 permalink: /work/tripeese/
 ---

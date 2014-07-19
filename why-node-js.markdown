@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Agile Software Development Process | Codebrahma
 permalink: why-node-js/
 ---

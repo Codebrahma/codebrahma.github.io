@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Agile Software Development Process | Codebrahma
 permalink: code-reviews/
 ---
@@ -10,6 +10,7 @@ You have a working prototype ready, you have demoed it to a few people, and
 they love your product, and now you want to take it to the masses.
 
 But you arent very confident about your codebase. 
+
 1. It throws exceptions every now and then.
 2. Tough to Scale, because of a huge monolithic codebase
 3. Response time is slow.
