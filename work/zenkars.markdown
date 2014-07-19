@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Client Project - zenkars | Codebrahma
 permalink: /work/zenkars/
 ---

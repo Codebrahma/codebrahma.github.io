@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: normal
 title: Product - Quickburp | Codebrahma
 permalink: /work/quickburp/
 ---
