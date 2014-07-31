@@ -187,3 +187,5 @@ Example: [http://jsfiddle.net/4e3rV/1/](http://jsfiddle.net/4e3rV/1/)
 ## But where?
 
 Everywhere. Cleanup your javascript code. Replace nested callbacks during sequential API calls, animations (etc) with promises. Promises are a great programming paradigm which have to be vigorously exploited.
+
+Refrences: [nithinkrishna.github.io](http://nithinkrishna.github.io/blog/Javascript-promises/)

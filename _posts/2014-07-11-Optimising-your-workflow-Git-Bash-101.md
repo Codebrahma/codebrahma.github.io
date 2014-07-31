@@ -53,3 +53,5 @@ When multiple people are working in the same branch, there is always a race for 
     }
 
 <img src="https://db.tt/6DhrqwnW" alt="Push safe" style="width: 100%; height:auto;" />
+
+Refrences: [nithinkrishna.github.io](http://nithinkrishna.github.io/blog/Optimising-your-workflow-Git-Bash-101/)
