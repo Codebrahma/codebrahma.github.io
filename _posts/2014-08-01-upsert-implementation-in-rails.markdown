@@ -25,7 +25,7 @@ module ActiveRecordExtension
 
   #All extensions go here.
 
-  def upsert(attributes)
+  def self.upsert(attributes)
     #Upsert implementation goes here.
   end
 end
@@ -60,7 +60,8 @@ def upsert(attributes)
   begin
   	create(attributes)
   rescue ActiveRecord::RecordNotUnique, PG::UniqueViolation => e
-  	update(attributes)
+    find_by_primary_key(attributes['primary_key']).
+    update(attributes)
   end
 end
 {% endhighlight %}
