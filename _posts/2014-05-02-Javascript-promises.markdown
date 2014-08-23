@@ -18,7 +18,7 @@ There is no way you can avoid such a condition, the asynchronous nature of javas
 
 Let's dig into the problem. Consider I am writing an application where I have to find out all the restaurants within a km radius of the user's location, I write something like this.
 
-```javascript
+{% highlight javascript %}
 function getRestaurants(){
     navigator.geolocation.getCurrentPosition(function(position){
 		$.get("http://myurl.com/getrestaurants",{ 
@@ -32,12 +32,12 @@ function getRestaurants(){
 		console.log("Unable to process request")
 	})
 }
-```
+{% endhighlight %}
 
 Fair enough? What if after I got the list of restaurants I needed to make another API call to order
 them based on rating. I'd do something like
 
-```javascript
+{% highlight javascript %}
 function getRestaurants(){
 	navigator.geolocation.getCurrentPosition(function(position){
 		$.get("http://myurl.com/getrestaurants",{ 
@@ -57,7 +57,7 @@ function getRestaurants(){
 		console.log("Unable to process request")
 	})
 }
-```
+{% endhighlight %}
 
 What if I'd have to make a 4rd API call. Pretty messy right?. Welcome to callback hell. Bwhahaha. You can name your callbacks and make your code more readable, But there is a better way of handling this situation.
 
@@ -65,7 +65,7 @@ What if I'd have to make a 4rd API call. Pretty messy right?. Welcome to callbac
 
 Before going into what they are all about, We'll see what will happen to our code when we use promises.
 
-```javascript
+{% highlight javascript %}
 function getRestaurants(){
 	var getLocation = function(){
 		var deferred = $q.defer();
@@ -91,12 +91,12 @@ function getRestaurants(){
 		.then(getCollection)
 		.then(processRestaurants)
 }
-```
+{% endhighlight %}
 
 Cool Right? We are able to write asynchronous code in a synchronous manner. 
 What if you had n nested callbacks, how would you handle that? Consider this example.
 
-```javascript
+{% highlight javascript %}
 function getData(){
 	var api_call = function(url){
 		var deferred = $q.defer()
@@ -119,7 +119,7 @@ function getData(){
 
     return res;
 }
-```
+{% endhighlight %}
 
 Though the time taken for the completion of each API call might varie, the resultant data array will be in the order of, the results from the functions which you pass to $q.all. This in an asynchronous environment is very powerful.
 
@@ -139,7 +139,7 @@ Example [http://jsfiddle.net/U3pVM/4914/](http://jsfiddle.net/U3pVM/4914/)
 
 This is a simple 10 minute implementation of a promise. The promise object maintains an array of pending callbacks. When ever the 'then' function is called, callbacks are pushed into this array. When the promise is resolved or rejected the corresponding set of callbacks are executed.
 
-```javascript
+{% highlight javascript %}
 var Promise = function(){
 	this.pending = [];
 }
@@ -180,7 +180,7 @@ Promise.prototype = {
 		delete this.pending
 	}
 }
-```
+{% endhighlight %}
 
 Example: [http://jsfiddle.net/4e3rV/1/](http://jsfiddle.net/4e3rV/1/)
 
