@@ -766,6 +766,9 @@ code{
     background:transparent;
   }
 
+  #twitter img, #facebook img{
+    vertical-align: middle;
+  }
 
   #page h1{
     border-color:#f90;
