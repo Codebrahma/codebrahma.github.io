@@ -698,3 +698,144 @@ code{
   line-height: 20px;  
   font-family: monaco, serif;
 }
+
+/*white skin*/
+  body{
+    background:#fefefe;
+    color:#545454;
+  }
+
+  a{
+    color:#f90;
+    font-weight: normal;
+  }
+  
+  .bold{
+    font-weight: bold;
+  }
+  .divider{
+    background:#f90;
+    box-shadow: inset 0 3px 3px rgba(0, 0, 0, 0.15),
+                inset 0 -3px 3px rgba(0, 0, 0, 0.15);
+  }
+
+  .divider h4{
+    color:#fff;
+  }
+
+  footer{
+    background:#333;
+    color:#fff;
+    padding:30px 0px;
+    font-size:16px;
+  }
+
+  footer a:hover{
+    color:#f90;
+  }
+
+  #projects .unit > div {
+    background:transparent;
+    box-shadow: none;
+  }
+
+  #projects a{
+    color:#545454;
+  }
+
+  #projects .unit{
+    text-align:center;
+  }
+
+  .main-nav li a{
+    background:#545454;
+    color:#fff;
+    box-shadow: none;
+    text-shadow:none;
+  }
+
+  .main-nav li a:hover,
+  .main-nav li.current a {
+    background:#f90;
+    color:#fff;
+    box-shadow: none;
+    text-shadow:none;
+  }
+
+  #twitter a, #facebook a{
+    background:transparent;
+  }
+
+
+  #page h1{
+    border-color:#f90;
+  }
+
+  #page iframe{
+    display:block;
+    margin:auto;
+  }
+
+  .jcarousel-control-next,
+  .jcarousel-control-prev{
+    background: #545454!important;
+    color: #fff!important;
+    border: 0px!important;
+    box-shadow: none!important;
+    text-shadow: none!important;
+  }
+
+  .jcarousel-pagination a{
+    color:#fff!important;
+    background:#545454!important;
+  }
+
+  #home div.preview-post {
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0,0,0,.4);
+  }
+
+  #home div.preview-post:last-of-type {
+   border-bottom: 0px;
+  }
+
+  #home div.preview-content {
+    font-size:18px;
+    margin-top: 15px;  
+  }
+
+  .posts .unit.one-fifth:first-of-type,
+  .blog-heading{
+    padding:10px!important;
+  }
+
+  .posts .unit.one-fifth span{
+    border-bottom:1px solid rgba(0,0,0,.6);
+  }
+
+  .og-details h3{
+    color:#e3e3e3;
+  }
+
+  .email{
+    border-radius:5px;
+    padding:5px;
+    font-weight:light;
+    font-size:16px;
+    box-shadow: none;
+    border: 1px solid rgba(0,0,0,.3);
+    height: 35px;
+    text-transform: capitalize;
+  }
+
+  .button{
+    background:#f90;
+    color:#fff;
+    border:0px;
+    border-radius: 5px;
+    padding:5px;
+  }
+
+
+/*white skin*/
