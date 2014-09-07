@@ -16,7 +16,7 @@ author: Nithin Krishna
 handle: "nithinkrishh"
 ---
 
-Internationalization is the process of abstracting all strings out of you application. Rails provides excellent support for [Internationalization](http://guides.rubyonrails.org/i18n.html).
+Internationalization is the process of abstracting all strings out of your application. Rails provides excellent support for [Internationalization](http://guides.rubyonrails.org/i18n.html).
 
 Rails' internationalization works well when views are built the Rails way. But when we are looking to build SPAs and front-end heavy applications, we often end up hard-coding error messages, response status messages (etc) in our javascript fies. Or worse, polluting javascript with Rails helpers!
 
@@ -51,11 +51,9 @@ class MessageHandler
   end
 
   def load!
-    parse_file = -> (language, file_path){
-      @@data[language] ||= YAML.load(File.read(file_path))
-    }
-    possible_languages.map do |language|
-      parse_file.call( language, locale_file_path(language))
+    possible_languages.each do |language|
+      file_path = locale_file_path(language)
+      @@data[language] ||= YAML.load(File.read(file_path)
     end
   end
 
@@ -139,4 +137,3 @@ alert(app.messages.welcome_message); // 'வரவேற்பு!'
 ###References
 * [Gist](https://gist.github.com/nithinkrishna/6a90349dddd2e8e44b11)
 * [How rails reloads your source code in development mode?](http://crypt.codemancers.com/posts/2013-10-03-rails-reloading-in-dev-mode/)
-* [nithinkrishna.github.io](http://nithinkrishna.github.io/blog/Rails-Il18n-and-passing-messages-to-javascript/)
