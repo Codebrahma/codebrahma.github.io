@@ -137,3 +137,4 @@ alert(app.messages.welcome_message); // 'வரவேற்பு!'
 ###References
 * [Gist](https://gist.github.com/nithinkrishna/6a90349dddd2e8e44b11)
 * [How rails reloads your source code in development mode?](http://crypt.codemancers.com/posts/2013-10-03-rails-reloading-in-dev-mode/)
+* [nithinkrishna.github.io](http://nithinkrishna.github.io/blog/Rails-Il18n-and-passing-messages-to-javascript)
