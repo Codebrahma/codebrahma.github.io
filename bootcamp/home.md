@@ -23,4 +23,5 @@ We expect 3 things from you.
 
 #Timeline
 
-* [Part 1](/bootcamp/1)
+* [&#35;Ruby](/bootcamp/lesson/1) - L1
+* [&#35;MidnightAuthor](/bootcamp/challenge/1) - C1

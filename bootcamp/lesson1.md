@@ -1,7 +1,7 @@
 ---
 layout: normal
 title: Bootcamp | Codebrahma
-permalink: /bootcamp/1/
+permalink: /bootcamp/lesson/1/
 ---
 
 #Ruby
