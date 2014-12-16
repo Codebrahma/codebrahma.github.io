@@ -4,7 +4,7 @@ title: Bootcamp | Codebrahma
 permalink: /bootcamp/challenge/2/
 ---
 
-__Time:__ 16th Dec 12pm to 4pm
+__Time:__ 16th Dec 12pm to 6pm
 
 #FirstGem
 
@@ -51,5 +51,7 @@ ssh ubuntu@12.12.12.13
 {% endhighlight %}
 
 Standard challenge rules apply. Only one of you can work on an idea.
+
+Additional points if your code is test covered. This is completely optional. Checkout [Rspec](http://rspec.info/).
 
 After installing the gem, I need to be able to type in stuff into my terminal and view results. Once you are done push your code to github and publish your gem to [RubyGems](https://rubygems.org/). Email me the respective links at [nithin@codebrahma.com](mailto:nithin@codebrahma.com).
