@@ -55,3 +55,9 @@ Standard challenge rules apply. Only one of you can work on an idea.
 Additional points if your code is test covered. This is completely optional. Checkout [Rspec](http://rspec.info/).
 
 After installing the gem, I need to be able to type in stuff into my terminal and view results. Once you are done push your code to github and publish your gem to [RubyGems](https://rubygems.org/). Email me the respective links at [nithin@codebrahma.com](mailto:nithin@codebrahma.com).
+
+***
+
+1. [play-rps](https://rubygems.org/gems/rps_gem): [https://github.com/balramkhichar/rps-gem](https://github.com/balramkhichar/rps-gem)
+2. [simple-ls](https://rubygems.org/gems/simplels_gem): [https://github.com/gauravsarma1992/simplels_gem](https://github.com/gauravsarma1992/simplels_gem)
+3. [reverse-search](https://rubygems.org/gems/reverse_search): [https://github.com/pgAdmin/reverse-search](https://github.com/pgAdmin/reverse-search)
