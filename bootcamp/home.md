@@ -21,6 +21,9 @@ We expect 3 things from you.
 * You will be given tests which will validate you understanding of this material.
 * We will also give you additional challenges which you if you complete will help your hacker profile.
 
+#Status
+<script src="https://gist.github.com/nithinkrishna/41997aac1935885d8db8.js"></script>
+
 #Timeline
 
 * [&#35;Ruby](/bootcamp/lesson/1) - L1
