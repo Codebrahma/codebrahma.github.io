@@ -30,3 +30,4 @@ We expect 3 things from you.
 * [&#35;MidnightAuthor](/bootcamp/challenge/1) - C1
 * [&#35;FirstGem](/bootcamp/challenge/2) - C2
 * [&#35;ToughRubyTest](/bootcamp/test/1) - T1
+* [&#35;MoreRuby](/bootcamp/lesson/2) - L1
