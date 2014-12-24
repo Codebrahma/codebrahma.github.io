@@ -32,3 +32,4 @@ We expect 3 things from you.
 * [&#35;ToughRubyTest](/bootcamp/test/1) - T1
 * [&#35;MoreRuby](/bootcamp/lesson/2) - L2
 * [&#35;Rails](/bootcamp/lesson/3) - L3
+* [&#35;CoreJSTest](/bootcamp/test/2) - T2
