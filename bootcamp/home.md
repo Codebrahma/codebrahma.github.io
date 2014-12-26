@@ -33,3 +33,5 @@ We expect 3 things from you.
 * [&#35;MoreRuby](/bootcamp/lesson/2) - L2
 * [&#35;Rails](/bootcamp/lesson/3) - L3
 * [&#35;CoreJSTest](/bootcamp/test/2) - T2
+* [&#35;Javascript](/bootcamp/lesson/4) - L4
+* [&#35;Jquery](/bootcamp/lesson/5) - L5
