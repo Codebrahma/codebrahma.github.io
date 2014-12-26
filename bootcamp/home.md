@@ -35,3 +35,5 @@ We expect 3 things from you.
 * [&#35;CoreJSTest](/bootcamp/test/2) - T2
 * [&#35;Javascript](/bootcamp/lesson/4) - L4
 * [&#35;Jquery](/bootcamp/lesson/5) - L5
+* [&#35;JqueryTest](/bootcamp/test/4) - T4
+
