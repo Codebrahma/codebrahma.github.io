@@ -34,4 +34,5 @@ We expect 3 things from you.
 * [&#35;Jquery](/bootcamp/lesson/5) - L5
 * [&#35;JqueryTest](/bootcamp/test/4) - T4
 * [&#35;LocalTodo](/bootcamp/challenge/3) - C3
+* [&#35;AngularBasicsTest](/bootcamp/test/5) - T5
 
