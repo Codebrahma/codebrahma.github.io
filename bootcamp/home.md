@@ -36,4 +36,5 @@ We expect 3 things from you.
 * [&#35;LocalTodo](/bootcamp/challenge/3) - C3
 * [&#35;AngularBasicsTest](/bootcamp/test/5) - T5
 * [&#35;TheGuitarApp](/bootcamp/challenge/4) - C4
+* [&#35;FastestFinger](/bootcamp/challenge/5) - C5
 
