@@ -2,7 +2,7 @@
 layout: normal
 title: SRM 2015 Web developers
 published: true
-permalink: srm2015/
+permalink: srmcb2015/
 description: Codebrahma SRM Questions
 ---
 
@@ -35,14 +35,7 @@ Next follow N lines, ith line contains few single-space separated distinct integ
 __Output:__
 Print the number of girls shortlisted by Ironman.
 
-| Sample Input  | Sample Output |
-| ------------- |:-------------:|
-| 5							| 1 						|
-|	1 2 3 4 5			|								|
-|	3							|								|
-|	1 2 5 4 3 6		|								|
-|	1 2 3 9 5			|								|
-|	1 2 3 4				|								|
+<img src="http://i.imgur.com/VvJuUR2.png" alt="Sample I/O">
 
 
 Use this [Editor](https://code.hackerearth.com) to solve the problem in your favorite language.
@@ -56,7 +49,7 @@ Create a function that will flatten an array using JavaScript.
 Example:
 
 | Sample Input  																				| Sample Output 																	 |
-| ----------------------------------------------------- |:------------------------------------------------:|
+| ----------------------------------------------------- | ------------------------------------------------:|
 | ["i", ["c", "o", "d"], 3, ["b", "r"], "h", "m", "a"]	| ["i", "c", "o", "d", 3, "b", "r", "h", "m", "a"] |
 
 
@@ -70,8 +63,8 @@ Implement the functionality in the given [JS Fiddle](https://jsfiddle.net/uypbyz
 Observe the following video carefully.
 
 
-<a href="https://www.youtube.com/watch?v=OEQrg8dhCZo" target="_blank"><img src="http://img.youtube.com/vi/OEQrg8dhCZo/0.jpg" alt="CandyMan" width="240" height="180" border="10" /></a>
-<p><a href="https://www.youtube.com/watch?v=OEQrg8dhCZo">CandyMan Demo</a></p>
+<a href="http://www.youtube.com/watch?v=OEQrg8dhCZo" target="_blank"><img src="http://img.youtube.com/vi/OEQrg8dhCZo/0.jpg" alt="CandyMan" width="240" height="180" border="10" /></a>
+<p><a href="https://www.youtube.com/watch?v=OEQrg8dhCZo" target="_blank">CandyMan Demo</a></p>
 
 In case the video isn't working refer [this](http://i.imgur.com/htOY97p.gif).
 
@@ -85,11 +78,16 @@ Implement the functionality in the given [JS Fiddle](https://jsfiddle.net/j03L89
 .main-nav {
   visibility: hidden;  
 }
-#questions img {
-  height:400px;  
-  width:500px;
+table th, table td {
+	border: 1px #fff solid;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+ul {
+	list-style: none;
 }
 </style>
+
 
 
 
