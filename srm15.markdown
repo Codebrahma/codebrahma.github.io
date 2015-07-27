@@ -36,7 +36,7 @@ __Output:__
 Print the number of girls shortlisted by Ironman.
 
 | Sample Input  | Sample Output |
-| ------------- |:-------------:|
+| ------------- | -------------:|
 | 5							| 1 						|
 |	1 2 3 4 5			|								|
 |	3							|								|
@@ -56,7 +56,7 @@ Create a function that will flatten an array using JavaScript.
 Example:
 
 | Sample Input  																				| Sample Output 																	 |
-| ----------------------------------------------------- |:------------------------------------------------:|
+| ----------------------------------------------------- | ------------------------------------------------:|
 | ["i", ["c", "o", "d"], 3, ["b", "r"], "h", "m", "a"]	| ["i", "c", "o", "d", 3, "b", "r", "h", "m", "a"] |
 
 
@@ -87,9 +87,10 @@ Implement the functionality in the given [JS Fiddle](https://jsfiddle.net/j03L89
 .main-nav {
   visibility: hidden;  
 }
-#questions img {
-  height:400px;  
-  width:500px;
+table th, table td {
+	border: 1px #fff solid;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 </style>
 
