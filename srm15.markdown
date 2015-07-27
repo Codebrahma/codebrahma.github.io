@@ -36,14 +36,9 @@ __Output:__
 Print the number of girls shortlisted by Ironman.
 
 | Sample Input  | Sample Output |
-| ------------- | -------------:|
-| 5							| 1 						|
-|	1 2 3 4 5			|								|
-|	3							|								|
-|	1 2 5 4 3 6		|								|
-|	1 2 3 9 5			|								|
-|	1 2 3 4				|								|
-
+| ------------- |:-------------:|
+| <ul><li>5</li><li>1 2 3 4 5</li><li>3</li><li>1 2 5 4 3 6</li><li>1 2 3 9 5</li><li>1 2 3 4</li></ul>	| 1 						|
+	
 
 Use this [Editor](https://code.hackerearth.com) to solve the problem in your favorite language.
 
@@ -91,6 +86,9 @@ table th, table td {
 	border: 1px #fff solid;
   padding-left: 40px;
   padding-right: 40px;
+}
+ul {
+	list-style: none;
 }
 </style>
 
