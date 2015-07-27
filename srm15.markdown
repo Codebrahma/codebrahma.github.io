@@ -70,9 +70,7 @@ Implement the functionality in the given [JS Fiddle](https://jsfiddle.net/uypbyz
 Observe the following video carefully.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OEQrg8dhCZo
-" target="_blank"><img src="http://img.youtube.com/vi/OEQrg8dhCZo/0.jpg" 
-alt="CandyMan" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=OEQrg8dhCZo" target="_blank"><img src="http://img.youtube.com/vi/OEQrg8dhCZo/0.jpg" alt="CandyMan" width="240" height="180" border="10" /></a>
 <p><a href="https://www.youtube.com/watch?v=OEQrg8dhCZo">CandyMan Demo</a></p>
 
 In case the video isn't working refer [this](http://i.imgur.com/htOY97p.gif).
